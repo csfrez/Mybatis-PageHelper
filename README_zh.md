@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/pagehelper/Mybatis-PageHelper.svg?branch=master)](https://travis-ci.org/pagehelper/Mybatis-PageHelper)
 [![Maven central](https://maven-badges.herokuapp.com/maven-central/com.github.pagehelper/pagehelper/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.pagehelper/pagehelper)
-[![Dependency Status](https://www.versioneye.com/user/projects/5932123f22f278003c5f851e/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5932123f22f278003c5f851e)
 
 [English](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/README.md)
 
@@ -11,6 +10,13 @@
 分页插件支持任何复杂的单表、多表分页，部分特殊情况请看[重要提示](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/Important.md)。
 
 想要使用分页插件？请看[如何使用分页插件](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md)。
+
+## 新增 JavaDoc 文档
+
+文档地址：https://apidoc.gitee.com/free/Mybatis_PageHelper
+
+Method API: https://apidoc.gitee.com/free/Mybatis_PageHelper/com/github/pagehelper/page/PageMethod.html
+
 
 ## 新书《MyBatis 从入门到精通》
 
@@ -88,7 +94,7 @@ GitHub项目：https://github.com/mybatis-book/book
 
 作者邮箱： abel533@gmail.com  
 
-Mybatis工具群： <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7c2f018e4cddc7d4aad04fc312b2d69361a0a896a4f59219a7914953a57bffc2"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Mybatis工具群" title="Mybatis工具群"></a>
+如需加群，请通过 http://mybatis.tk 首页按钮加群。
 
 本项目在 github 的项目地址：https://github.com/pagehelper/Mybatis-PageHelper
 
